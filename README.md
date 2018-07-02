@@ -1,5 +1,5 @@
 # uiux
-### Free and open source WalkMe alternatives
+### Free and open source Walkthrough  
 
 http://bootstraptour.com/api/
 
